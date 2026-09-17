@@ -120,9 +120,9 @@ const songs = [
     link: "https://youtu.be/r3bngwZsfMI?si=aa4yNvp4vB3SloeD"
   },
   {
-    id: 20,
+    id: 21,
     name: "Rolex BGM",
-    singer: "Surya",
+    singer: "Suriya",
     link: "https://youtu.be/_6WuNcgu8IQ?si=knR_dGgjd69qTwWL"
   }
 ];
